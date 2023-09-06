@@ -23,3 +23,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifeiyu0531&layout=compact" />
 </a>
 
+---
+
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/zifeiyu0531/zifeiyu0531.svg)](http://hits.dwyl.com/zifeiyu0531/zifeiyu0531)
